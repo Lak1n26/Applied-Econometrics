@@ -1,2 +1,2 @@
 # Applied-Econometrics
-Applied Econometrics VSU 3 course
+Прикладная эконометрика ВГУ 3 курс
